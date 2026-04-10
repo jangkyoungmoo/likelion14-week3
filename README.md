@@ -1,16 +1,15 @@
-# React + Vite
+# 📝 메모 리스트 만들기 (Likelion 14-week3)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+이번 과제는 React를 활용하여 메모를 추가하고, 리스트로 관리하는 기능을 구현하는 프로젝트입니다.
 
-Currently, two official plugins are available:
+## ✅ 구현 기능 체크리스트
+- [x] 메모 입력창 (`MemoInsert.jsx`) 구현
+- [x] 메모 목록 표시 (`MemoList.jsx`) 기능
+- [x] 개별 메모 아이템 스타일링 (`MemoItem.jsx`)
+- [x] 컴포넌트 간 데이터 전달 (Props 활용)
+- [x] 메모 삭제 기능 (선택 사항 - 구현했다면 체크!)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ 기술 스택
+- **Library:** React
+- **Styling:** CSS
+- **Tools:** Vite, Git/GitHub
